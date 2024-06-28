@@ -1,0 +1,12 @@
+{
+    "try except [+]": {
+        "prefix": "try_except",
+        "body": [
+            "try:",
+            "    ${0:pass}",
+            "except ${1:Exception} as e:",
+            "    ${2:print(e)}"
+        ],
+        "description": "Code snippet for try except"
+    }
+}
