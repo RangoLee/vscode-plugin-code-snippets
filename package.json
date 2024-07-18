@@ -2,7 +2,8 @@
   "name": "vscode-plugin-code-snippets",
   "displayName": "vscode-plugin-code-snippets",
   "description": "vscode plugin for code snippets",
-  "version": "0.0.1",
+  "version": "0.0.3",
+  "icon": "images/logo.png",
   "engines": {
     "vscode": "^1.5.0"
   },
@@ -14,16 +15,11 @@
   "keywords": [
     "vue",
     "Vue",
-    "vue2",
-    "Vue2",
     "vue3",
     "Vue3",
-    "vue 2",
-    "Vue 2",
     "vue 3",
     "Vue 3",
-    "vue 2 snippet",
-    "vue 3 snippet",
+    "vue snippet",
     "Vue Snippets",
     "composition",
     "api",
@@ -52,90 +48,6 @@
       {
         "language": "vue",
         "path": "./snippets/vue-base.json"
-      },
-      {
-        "language": "jade",
-        "path": "./snippets/vue-pug.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/vue-template.json"
-      },
-      {
-        "language": "vue-html",
-        "path": "./snippets/vue-template.json"
-      },
-      {
-        "language": "javascript",
-        "path": "./snippets/vue-script.json"
-      },
-      {
-        "language": "javascript",
-        "path": "./snippets/vue-script-vuex.json"
-      },
-      {
-        "language": "javascript",
-        "path": "./snippets/vue-script-router.json"
-      },
-      {
-        "language": "javascript",
-        "path": "./snippets/vue-nuxt-config.json"
-      },
-      {
-        "language": "javascript",
-        "path": "./snippets/vue-nuxt-script.json"
-      },
-      {
-        "language": "typescript",
-        "path": "./snippets/vue-script.json"
-      },
-      {
-        "language": "typescript",
-        "path": "./snippets/vue-script-vuex.json"
-      },
-      {
-        "language": "typescript",
-        "path": "./snippets/vue-script-router.json"
-      },
-      {
-        "language": "typescript",
-        "path": "./snippets/vue-nuxt-config.json"
-      },
-      {
-        "language": "vue",
-        "path": "./snippets/vue.json"
-      },
-      {
-        "language": "vue",
-        "path": "./snippets/html.json"
-      },
-      {
-        "language": "vue",
-        "path": "./snippets/javascript.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/html.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/vue.json"
-      },
-      {
-        "language": "vue-html",
-        "path": "./snippets/html.json"
-      },
-      {
-        "language": "jade",
-        "path": "./snippets/pug.json"
-      },
-      {
-        "language": "javascript",
-        "path": "./snippets/javascript.json"
-      },
-      {
-        "language": "typescript",
-        "path": "./snippets/javascript.json"
       }
     ]
   }
