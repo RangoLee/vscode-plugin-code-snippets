@@ -8,6 +8,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Initial release
 
+## [0.0.4] - 2024-07-18
+
+### Changed
+
+- Update prefix for Vue code snippets
+
 ## [0.0.3] - 2024-07-18
 
 ### Added
