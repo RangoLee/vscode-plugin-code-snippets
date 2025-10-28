@@ -1,6 +1,6 @@
-# vscode-plugin-code-snippets
+# code-snippets
 
-vscode-plugin-code-snippets
+code-snippets
 
 ## Snippets
 

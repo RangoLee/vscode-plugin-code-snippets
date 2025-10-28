@@ -1,8 +1,8 @@
 {
   "name": "vscode-plugin-code-snippets",
-  "displayName": "vscode-plugin-code-snippets",
+  "displayName": "Code Snippets for VSCode",
   "description": "vscode plugin for code snippets",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "icon": "images/logo.png",
   "engines": {
     "vscode": "^1.5.0"
@@ -21,8 +21,8 @@
     "Vue 3",
     "vue snippet",
     "Vue Snippets",
-    "composition",
     "api",
+    "composition",
     "Composition API",
     "javascript",
     "html",

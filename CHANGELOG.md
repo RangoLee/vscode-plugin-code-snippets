@@ -1,6 +1,6 @@
 # Change Log
 
-All notable changes to the "vscode-plugin-code-snippets" extension will be documented in this file.
+All notable changes to the "code-snippets" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
@@ -8,7 +8,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Initial release
 
-## [0.0.4] - 2024-07-18
+## [0.0.5] - 2025-10-28
+
+- nothing
 
 ### Changed
 
@@ -24,10 +26,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Fixed
 
 - Fix empty
-
-### Changed
-
-- Update empty
 
 ### Removed
 
